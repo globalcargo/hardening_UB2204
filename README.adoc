@@ -1,3 +1,7 @@
+== NOTE: This version has customizations specific to my environments.
+You are likely better off using the excellent original version by konstruktoid: 
+https://github.com/konstruktoid/hardening
+
 image::logo/horizontal.png[Ubuntu Hardening]
 = Hardening Ubuntu. Systemd edition.
 
